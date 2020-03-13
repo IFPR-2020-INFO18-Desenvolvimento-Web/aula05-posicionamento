@@ -1,0 +1,24 @@
+body {
+  margin-bottom: 100px;
+}
+
+div, span, h1 {
+  background-color: #98df69;
+  border: 1px solid #000000;
+  margin: 5px;
+}
+
+div {
+  display: block;
+  height: 50px;
+}
+
+span {
+  display: inline-block;
+  /* height: 50px; */
+  padding: 10px;
+}
+
+.esconder {
+  display: none;
+}
